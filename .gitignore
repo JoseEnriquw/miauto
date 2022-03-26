@@ -1,4 +1,5 @@
-obj
-bin
 nginx
-.vs
+\MovileApp\miauto.mobileapp.front\node_modules
+\LogginApi\.vs
+\LogginApi\miauto.identity.api\bin
+\LogginApi\miauto.identity.api\obj
